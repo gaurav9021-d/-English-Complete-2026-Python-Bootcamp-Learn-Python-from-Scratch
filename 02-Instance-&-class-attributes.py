@@ -39,6 +39,7 @@ class Student:
 s1 = Student("Gaurav" , 21)
 s2 = Student("rahul" , 22)
 
+
 print(s1.name)
 print(s1.age)
 print(s1.school)
@@ -46,3 +47,5 @@ print(s1.school)
 print(s2.name)
 print(s2.age)
 print(s2.school)
+
+
