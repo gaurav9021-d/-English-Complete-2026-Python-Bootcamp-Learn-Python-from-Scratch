@@ -43,3 +43,27 @@ print(my_cat.name)  # Output: Fluffy
 # They both have a 'speak' method, but it behaves differently:
 my_dog.speak()  # Output: Woof!
 my_cat.speak()  # Output: Meow!
+
+# Inheritance OOP (Object-Oriented Programming) ka ek concept hai jisme
+#  ek class dusri class ki properties (variables) aur methods (functions)
+#  ko reuse kar sakti hai.
+# Simple words me:
+# Inheritance ka matlab hai Parent Class ki qualities ko Child
+#  Class me inherit (paana) karna.
+
+# ypes of Inheritance (Hinglish)
+
+# Single Inheritance
+#  Ek Child Class sirf ek Parent Class se inherit karti hai.
+
+# Multiple Inheritance
+#  Ek Child Class ek se jyada Parent Classes se inherit karti hai.
+
+# Multilevel Inheritance
+#  Parent → Child → Grandchild wali inheritance chain.
+
+# Hierarchical Inheritance
+#  Ek Parent Class se multiple Child Classes inherit karti hain.
+
+# Hybrid Inheritance
+#  Do ya do se jyada inheritance types ka combination.
